@@ -8,7 +8,7 @@
 </p>
 --------------------------------------------------------------------------SS-------------------------------------
 [Author by Ferdi Setyo Amanda](https://www.instagram.com/setyoferdi/) 
-[Data_Hp](https://data-hpku.herokuapp.com//)## Aplikasi Prekaman data Hp yang berguna untuk menyimpan data HP, menggunakan HTML dan PHP.
+[Data_Hp](https://data-hpku.herokuapp.com/)## Aplikasi Prekaman data Hp yang berguna untuk menyimpan data HP, menggunakan HTML dan PHP.
 ## Fitur yang tersedia yaitu : 
 ## Menambahkan Data Hp, Mengedit data Hp, dan menghapus data Hp.
 --------------------------------------------------------------------------SS-------------------------------------
