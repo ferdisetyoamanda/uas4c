@@ -6,7 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
+--------------------------------------------------------------------------SS-------------------------------------
+[Author by Ferdi Setyo Amanda](https://www.instagram.com/setyoferdi/) 
+[Data_Hp](https://data-hpku.herokuapp.com//)## Aplikasi Prekaman data Hp yang berguna untuk menyimpan data HP, menggunakan HTML dan PHP.
+## Fitur yang tersedia yaitu : 
+## Menambahkan Data Hp, Mengedit data Hp, dan menghapus data Hp.
 --------------------------------------------------------------------------SS-------------------------------------
 ## CARA CLONE LARAVEL
 - composer install
